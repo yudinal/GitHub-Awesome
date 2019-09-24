@@ -17,4 +17,6 @@
 1. rm - rf - deletes a directory
 
 ## vi (visual editor)
-1. 
+1. wq - save and exits
+1. esc - command mode
+1. i - insert mode
